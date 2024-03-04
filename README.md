@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **wicakson0/wicakson0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Arief, a computer science and statistics fresh graduate from Indonesia. Currently looking for job opportunities in Software Development and Data Science.
+
+## Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wicakson0&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
