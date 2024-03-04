@@ -59,3 +59,15 @@ I'm Arief, a computer science and statistics fresh graduate from Indonesia. Curr
 #### Scripting
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+## My Portfolio Projects
+- [**Machine Learning Churn Prediction:**](https://github.com/wicakson0/End-to-End-ML-Project-Bank-Churn-Classification) Built a classification pipeline for predicting customer churn. Used Scikit-Learn and LightGBM to build the pipeline, Optuna for hyperparameter optimization, and Optuna Dashboard for experiment tracking. Model is deployed as a REST API using FastAPI.
+
+## Currently Learning
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+## Find Me On
