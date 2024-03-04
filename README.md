@@ -20,3 +20,7 @@ I'm Arief, a computer science and statistics fresh graduate from Indonesia. Curr
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wicakson0&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
+
+## My Current Skills
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
