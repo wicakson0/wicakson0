@@ -71,3 +71,9 @@ I'm Arief, a computer science and statistics fresh graduate from Indonesia. Curr
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## Find Me On
+<a href="https://www.linkedin.com/in/m-arief-wicaksono/">
+  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/rief_wicakson/">
+  <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+</a>
